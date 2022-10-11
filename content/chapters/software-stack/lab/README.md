@@ -9,4 +9,5 @@
 - [Statically-linked and Dynamically-linked Libraries](content/static-dynamic.md)
 - [Library calls vs system calls](content/libcall-syscall.md)
 - [High-Level Languages](content/high-level-lang.md)
+- [App Investigation](content/app-investigate.md)
 - [Arena](content/arena.md)
